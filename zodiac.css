@@ -1,0 +1,25 @@
+body{
+    background-image: url(https://www.magacin247.com/wp-content/uploads/2020/11/TALENTOS-SIGNO-ZODIACAL.jpg);
+    background-repeat: none;
+    background-size: cover;
+    height: 560px;
+}
+
+nav{
+    background-color: deeppink;
+    opacity: 90%;
+}
+
+.container button {
+    background-color: deeppink;
+    color: white;
+}
+
+#save-button{
+    background-color: deeppink;
+}
+
+footer {
+    background-color: deeppink;
+    color: white;
+}
